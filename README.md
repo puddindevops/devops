@@ -1,1 +1,2 @@
 Shop application
+Production version
